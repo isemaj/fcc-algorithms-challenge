@@ -1,0 +1,19 @@
+{
+  "name": "fcc-algorithms-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isemaj/fcc-algorithms-challenge.git"
+  },
+  "author": "James Itum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isemaj/fcc-algorithms-challenge/issues"
+  },
+  "homepage": "https://github.com/isemaj/fcc-algorithms-challenge#readme"
+}
