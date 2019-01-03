@@ -1,3 +1,1 @@
 # fcc-algorithms-challenge
-
-test
